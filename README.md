@@ -16,7 +16,7 @@ We rely on vagrant-libvirt provider
 To provision the Uptrace VM, execute the following commands.
 
 ```shell
-git clone https://github.com/gregpaes/vagrant-libvirt-uptrace.git
+git clone https://bitbucket.org/vericodeio/vagrant-libvirt-uptrace.git
 cd vagrant-libvirt-uptrace
 vagrant up --provider=libvirt --no-parallel
 ```
