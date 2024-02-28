@@ -1,5 +1,6 @@
 ## About this repo
 This project aims on setting up a VM with the APM solution Uptrace and its dependencies, Clickhouse and PostgreSQL
+Read more about Uptrace on https://uptrace.dev/get/open-source-apm.html
 We rely on vagrant-libvirt provider
 
 ## Prerequisites
